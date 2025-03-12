@@ -555,6 +555,7 @@ video {
 
 /* page 4 css */
 .page4 {
+  overflow: hidden;
   width: 100%;
   padding: 6rem 0;
   display: flex;
